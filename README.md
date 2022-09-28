@@ -6,12 +6,13 @@
 > status: Developing
 
 # DESCRIÇÃO DO PROJETO
-<P>Essa é a 'landing page' do 'AluraBooks', contendo informações no cabeçalho de navegaçao pelo site, e uma barra de pesquisa para ajudar a encontrar o melhor livro para o usuário . . .</P>
-<p>Na navegaçao da pagina temos algumas informações para ajuadar o usuário a ter um direcionamento da escolha de seus livros . . .</p>
-<p>Essa página foi desenvolvida durante o curso de 'HTML e CSS: responsividade vom mobile-firts' da escola de tecnologia Alura.</p>
+<P>Essa é a 'landing page' do 'Alura Cast', contendo informações da pagina de podcast da alura . . .</P>
 
 # TECNOLOGIAS USADAS
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 # PAGINA RESPONSIVA
 <ul>
