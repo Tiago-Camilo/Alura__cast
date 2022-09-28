@@ -18,7 +18,7 @@
 <ul>
 <li>MOBILE</li>
 <li>TABLET</li>
-<li>DESKTOPr</li>
+<li>DESKTOP</li>
 </ul>
 
 # ACESSE O PROJETO
