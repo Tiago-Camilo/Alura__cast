@@ -16,9 +16,10 @@
 
 # PAGINA RESPONSIVA
 <ul>
-<li>Mobile</li>
-<li>Tablet</li>
-<li>Computador</li>
+<li>MOBILE</li>
+<li>TABLET</li>
+<li>DESKTOPr</li>
 </ul>
 
 # ACESSE O PROJETO
+<p><a href="https://tiago-camilo.github.io/Alura__cast/" >acessar por aqui </a></p>
